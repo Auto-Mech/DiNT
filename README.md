@@ -2,8 +2,8 @@
 ## Direct Nonadiabatic Trajectories v2.0: A code for non-Born--Oppenheimer molecular dynamics
 
 ## Download
-A stable release download of DiNT v2.0 is available at: [UMN](https://comp.chem.umn.edu/dint/)
-Manual in PDF format: [Manual](https://comp.chem.umn.edu/dint/Dint_v2.0_manual.pdf)
+A stable release download of DiNT v2.0 is available at: [UMN](https://comp.chem.umn.edu/dint/)\
+Manual in PDF format: [Manual](https://comp.chem.umn.edu/dint/Dint_v2.0_manual.pdf)\
 This repository is the development version of DiNT for internal use in the AutoMech suite, not recommended to users: [AutoMech](https://github.com/Auto-Mech/DiNT)
 
 ## Authors
